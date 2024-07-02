@@ -11,7 +11,7 @@ This is a simple todo list application for creating, modifying, deleting and com
    Start by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Belalirshad/AB-Movies-Frontend.git
+   git clone https://github.com/Belalirshad/ToDo.git
    ```
 
 2. **Install Dependencies**
